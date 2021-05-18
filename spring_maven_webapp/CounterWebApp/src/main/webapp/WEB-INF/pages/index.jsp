@@ -9,7 +9,6 @@
 <h2>Counter : ${counter}</h2>
 
 I add this line of text just to test Jenkins continuous deployment process
-It just a test
 
 </body>
 </html>
